@@ -39,5 +39,5 @@ Contributions are welcome! If you find a bug or want to enhance JunoGuard, feel 
 
 **Disclaimer:** JunoGuard is provided as-is without any warranties. Use at your own risk.
 
-For questions or inquiries, contact [your.email@example.com](mailto:sshukla90@outlook.com).
+For questions or inquiries, contact: mailto:sshukla90@outlook.com
 
